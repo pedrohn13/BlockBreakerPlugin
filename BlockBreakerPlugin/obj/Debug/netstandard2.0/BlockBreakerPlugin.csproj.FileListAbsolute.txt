@@ -1,0 +1,10 @@
+C:\Users\pedro\source\repos\BlockBreakerPlugin\BlockBreakerPlugin\bin\Debug\netstandard2.0\BlockBreakerPlugin.deps.json
+C:\Users\pedro\source\repos\BlockBreakerPlugin\BlockBreakerPlugin\bin\Debug\netstandard2.0\BlockBreakerPlugin.dll
+C:\Users\pedro\source\repos\BlockBreakerPlugin\BlockBreakerPlugin\bin\Debug\netstandard2.0\BlockBreakerPlugin.pdb
+C:\Users\pedro\source\repos\BlockBreakerPlugin\BlockBreakerPlugin\bin\Debug\netstandard2.0\PhotonHivePlugin.dll
+C:\Users\pedro\source\repos\BlockBreakerPlugin\BlockBreakerPlugin\obj\Debug\netstandard2.0\BlockBreakerPlugin.csprojResolveAssemblyReference.cache
+C:\Users\pedro\source\repos\BlockBreakerPlugin\BlockBreakerPlugin\obj\Debug\netstandard2.0\BlockBreakerPlugin.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\BlockBreakerPlugin\BlockBreakerPlugin\obj\Debug\netstandard2.0\BlockBreakerPlugin.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\BlockBreakerPlugin\BlockBreakerPlugin\obj\Debug\netstandard2.0\BlockBreakerPlugin.AssemblyInfo.cs
+C:\Users\pedro\source\repos\BlockBreakerPlugin\BlockBreakerPlugin\obj\Debug\netstandard2.0\BlockBreakerPlugin.dll
+C:\Users\pedro\source\repos\BlockBreakerPlugin\BlockBreakerPlugin\obj\Debug\netstandard2.0\BlockBreakerPlugin.pdb
